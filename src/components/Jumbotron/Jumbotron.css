@@ -1,18 +1,19 @@
 .header { 
-	background-color: #ccc;
+	background-color: #ABAAA8;
 	position: relative;
+	box-shadow: 0 3px 6px #0C0A0B, 0 3px 6px #0C0A0B;
 	width: 100%;
 }
 
 h1 {
 	text-align: center;
-	font-size: 90px;
+	font-size: 5.625rem;
 	font-weight: bold;
 	padding: 90px 0 20px 0;
 }
 
 h2 {
 	text-align: center;
-	font-size: 25px;
+	font-size: 1.5625rem;
 	padding-bottom: 40px;
 }
